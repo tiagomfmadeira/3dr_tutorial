@@ -3,6 +3,8 @@
 Madeira, T.; Dal'Col, L.; Oliveira, M.; Dias, P. (2024) "3D Reconstruction Tutorial: Data Processing, Surface Reconstruction, and Texture Mapping". 
 International Conference on 3D Web Technology (Web3D 2024); Guimarães, Portugal.
 
+![biblioteca-framed](https://github.com/user-attachments/assets/f62e4336-a06d-4637-9853-b6efd357ceb1)
+
 ---
 
 It is recommended that you use Conda to create a python virtual environment so it is easier to manage dependencies and cleanup.\
